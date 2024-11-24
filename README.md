@@ -70,4 +70,4 @@ Module is maintained by [Oleksandr Kukhar](https://github.com/kyxap1)
 
 ## License
 
-Apache 2 Licensed. See LICENSE for full details.
+Apache 2 Licensed. See [LICENSE](https://github.com/kyxap1/terraform-aws-ec2-scheduler/tree/master/LICENSE) for full details.
